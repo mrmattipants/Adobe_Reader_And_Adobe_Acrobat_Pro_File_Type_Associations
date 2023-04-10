@@ -1,0 +1,12 @@
+
+.acrobatsecuritysettings, Applications\AcroRd32.exe
+.api, AcroExch.Plugin
+.fdf, AcroExch.FDFDoc
+.pdf, AcroExch.Document.DC
+.pdfxml, Applications\AcroRd32.exe
+.pdx, PDXFileType
+.rmf, Acrobat.RMFFile
+.secstore, AcroExch.SecStore
+.xdp, AcroExch.XDPDoc
+.xfdf, AcroExch.XFDFDoc
+ACROBAT, Applications\AcroRd32.exe

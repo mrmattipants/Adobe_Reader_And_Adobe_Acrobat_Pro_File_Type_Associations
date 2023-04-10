@@ -1,0 +1,17 @@
+
+.acrobatsecuritysettings, Applications\Acrobat.exe
+.api, Acrobat.Plugin
+.aaui, Acrobat.aaui
+.bpdx, AcrobatBPDXFileType
+.fcdt, FormsCentral.fcdt
+.fdf, Acrobat.FDFDoc
+.joboptions, AcroDistJobOptions
+.pdf, Acrobat.Document.DC
+.pdfxml, Acrobat.pdfxml.1
+.pdx, AcrobatPDXFileType
+.rmf, Acrobat.RMFFile
+.secstore, Acrobat.SecStore
+.sequ, Acrobat.Sequence
+.xdp, Acrobat.XDPDoc
+.xfdf, Acrobat.XFDFDoc
+ACROBAT, Applications\Acrobat.exe

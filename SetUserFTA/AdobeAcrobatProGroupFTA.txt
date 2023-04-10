@@ -1,0 +1,17 @@
+
+.acrobatsecuritysettings, Applications\Acrobat.exe, Adobe-Acrobat-Pro-Users
+.api, Acrobat.Plugin, Adobe-Acrobat-Pro-Users
+.aaui, Acrobat.aaui, Adobe-Acrobat-Pro-Users
+.bpdx, AcrobatBPDXFileType, Adobe-Acrobat-Pro-Users
+.fcdt, FormsCentral.fcdt, Adobe-Acrobat-Pro-Users
+.fdf, Acrobat.FDFDoc, Adobe-Acrobat-Pro-Users
+.joboptions, AcroDistJobOptions, Adobe-Acrobat-Pro-Users
+.pdf, Acrobat.Document.DC, Adobe-Acrobat-Pro-Users
+.pdfxml, Acrobat.pdfxml.1, Adobe-Acrobat-Pro-Users
+.pdx, AcrobatPDXFileType, Adobe-Acrobat-Pro-Users
+.rmf, Acrobat.RMFFile, Adobe-Acrobat-Pro-Users
+.secstore, Acrobat.SecStore, Adobe-Acrobat-Pro-Users
+.sequ, Acrobat.Sequence, Adobe-Acrobat-Pro-Users
+.xdp, Acrobat.XDPDoc, Adobe-Acrobat-Pro-Users
+.xfdf, Acrobat.XFDFDoc, Adobe-Acrobat-Pro-Users
+ACROBAT, Applications\Acrobat.exe, Adobe-Acrobat-Pro-Users
