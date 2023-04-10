@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DefaultAssociations>
+  <Association Identifier=".acrobatsecuritysettings" ProgId="Applications\AcroRd32.exe" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".api" ProgId="AcroExch.Plugin" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".fdf" ProgId="AcroExch.FDFDoc" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".pdf" ProgId="AcroExch.Document.DC" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".pdfxml" ProgId="Applications\AcroRd32.exe" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".pdx" ProgId="PDXFileType" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".rmf" ProgId="Acrobat.RMFFile" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".secstore" ProgId="AcroExch.SecStore" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".xdp" ProgId="AcroExch.XDPDoc" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".xfdf" ProgId="AcroExch.XFDFDoc" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier="ACROBAT" ProgId="Applications\AcroRd32.exe" ApplicationName="Adobe Acrobat Reader DC" />
+</DefaultAssociations>

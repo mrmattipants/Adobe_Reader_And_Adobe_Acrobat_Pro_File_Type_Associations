@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DefaultAssociations>
+  <Association Identifier=".acrobatsecuritysettings" ProgId="Acrobat.acrobatsecuritysettings" ApplicationName="Adobe Acrobat DC" />
+  <Association Identifier=".api" ProgId="Acrobat.Plugin" ApplicationName="Adobe Acrobat DC" />
+  <Association Identifier=".aaui" ProgId="Acrobat.aaui" ApplicationName="Adobe Acrobat DC" />
+  <Association Identifier=".bpdx" ProgID="AcrobatBPDXFileType" ApplicationName="Adobe Acrobat DC" />
+  <Association Identifier=".fcdt" ProgID="FormsCentral.fcdt" ApplicationName="Adobe Acrobat DC" />
+  <Association Identifier=".fdf" ProgId="Acrobat.FDFDoc" ApplicationName="Adobe Acrobat DC" />
+  <Association Identifier=".joboptions" ProgId="AcroDistJobOptions" ApplicationName="Adobe Acrobat DC" />
+  <Association Identifier=".pdf" ProgId="Acrobat.Document.DC" ApplicationName="Adobe Acrobat DC" />
+  <Association Identifier=".pdfxml" ProgId="Acrobat.pdfxml" ApplicationName="Adobe Acrobat DC" />
+  <Association Identifier=".pdx" ProgId="AcrobatPDXFileType" ApplicationName="Adobe Acrobat DC" />
+  <Association Identifier=".rmf" ProgId="Acrobat.RMFFile" ApplicationName="Adobe Acrobat DC" />
+  <Association Identifier=".secstore" ProgId="Acrobat.SecStore" ApplicationName="Adobe Acrobat DC" />
+  <Association Identifier=".sequ" ProgId="Acrobat.Sequence" ApplicationName="Adobe Acrobat DC" />
+  <Association Identifier=".xdp" ProgId="Acrobat.XDPDoc" ApplicationName="Adobe Acrobat DC" />
+  <Association Identifier=".xfdf" ProgId="Acrobat.XFDFDoc" ApplicationName="Adobe Acrobat DC" />
+  <Association Identifier="ACROBAT" ProgId="Applications\Acrobat.exe" ApplicationName="Adobe Acrobat DC" />
+</DefaultAssociations>
