@@ -1,1 +1,2 @@
-Adobe Reader & Acrobat Pro - File Type Associations
+Adobe Reader & Acrobat Pro - File Type Associations:
+
