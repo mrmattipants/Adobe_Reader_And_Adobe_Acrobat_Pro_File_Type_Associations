@@ -22,15 +22,15 @@ If you want to Update the FTAs on existing production machines, you need to depl
 
 **Setting Computer FTAs**:
 - **ASSOC Command**
-- **XML Templates**
+- **XML Templates**<br>
     **Export Command** (To Desktop): <br>
       Dism /Online /Export-DefaultAppAssociations:"%USERPROFILE%\Desktop\AppAssociations.xml"<br>
     **Import Command** (From Desktop): <br>
       Dism /Online /Import-DefaultAppAssociations:"%USERPROFILE%\Desktop\AppAssociations.xml"
 
 **Setting User FTAs**:
-- **Default Apps** (System Settings)
-    **Open Command**: <br>
+- **Default Apps** (System Settings)<br>
+    **Open Command**:<br>
       control /name Microsoft.DefaultPrograms /page pageDefaultProgram
 - **SetUserFTA.exe Tool/Utility**
 - **PS-SFTA PowerShell Module**
