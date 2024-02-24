@@ -35,4 +35,4 @@ If you want to Update the FTAs on existing production machines, you need to depl
 - **SetUserFTA.exe Tool/Utility**
 - **PS-SFTA PowerShell Module**
 
-I hope that this helps to clear-up some of the misconceptions, regarding File Type Associations.
+I hope that this helps to clear-up some of the misconceptions in regard to File Type Associations.
