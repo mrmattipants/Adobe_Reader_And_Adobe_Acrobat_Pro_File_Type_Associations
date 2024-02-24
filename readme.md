@@ -12,7 +12,7 @@ First and foremost, it needs to be understood that there are Two Types of FTAs (
 **User File Type Associations**:<br>
 - Deployed through Group Policy as a User Configuration
 - Registry Keys/Values are found under the HKEY_USERS & HKEY_CURRENT_USER Hives<br>
-  (i.e. HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.pdf\UserChoice)
+  (i.e. HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\\.pdf\UserChoice)
 
 One of the primary mistakes that I see newer SysAdmins making, pertains to Deploying FTAs through Group Policy. Often I see discussion posts, where SysAdmins claim that XML Templates are inconsistant, when in truth, they work exactly as they are mean to and therefore, XML Templates are entirely consistent. 
 
