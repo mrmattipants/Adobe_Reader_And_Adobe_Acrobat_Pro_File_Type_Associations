@@ -7,7 +7,7 @@ First and foremost, it needs to be understood that there are Two Types of FTAs (
 **Computer File Type Associations**:<br>
 - Group Policies are Deployed as a Computer Configuration
 - Registry Keys/Values are found under the HKEY_CLASSES_ROOT & HKEY_LOCAL_MACHINE Hives<br>
-  (i.e. HKEY_LOCAL_MACHINE\SOFTWARE\Classes\.pdf)
+  (i.e. HKEY_LOCAL_MACHINE\SOFTWARE\Classes\\.pdf)
 
 **User File Type Associations**:<br>
 - Deployed through Group Policy as a User Configuration
