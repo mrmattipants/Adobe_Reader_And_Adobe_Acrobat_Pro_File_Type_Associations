@@ -23,10 +23,10 @@ If you want to Update the FTAs on existing production machines, you need to depl
 **Setting Computer FTAs**:
 - **ASSOC Command**
 - **XML Templates**<br>
-    **Export Command** (To Desktop): <br>
-      Dism /Online /Export-DefaultAppAssociations:"%USERPROFILE%\Desktop\AppAssociations.xml"<br>
-    **Import Command** (From Desktop): <br>
-      Dism /Online /Import-DefaultAppAssociations:"%USERPROFILE%\Desktop\AppAssociations.xml"
+    **Export Command**: <br>
+      Dism /Online /Export-DefaultAppAssociations:"C:\Temp\AppAssociations.xml"<br>
+    **Import Command**: <br>
+      Dism /Online /Import-DefaultAppAssociations:"C:\Temp\AppAssociations.xml"
 
 **Setting User FTAs**:
 - **Default Apps** (System Settings)<br>
